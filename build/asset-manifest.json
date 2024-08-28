@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76b0c177.css",
+    "main.js": "/static/js/main.cb10ebe5.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/Certificate2.png": "/static/media/Certificate2.98c7475b3e2805d647c1.png",
+    "static/media/Certificate1.png": "/static/media/Certificate1.1c182177d3aca1138d1c.png",
+    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/ehr.png": "/static/media/ehr.85aa0db36f27c9085179.png",
+    "static/media/kitchen.png": "/static/media/kitchen.fa4da1650bf5d74a4d54.png",
+    "static/media/doorlock.png": "/static/media/doorlock.c4a853cc1a11241ff1a8.png",
+    "static/media/logo.png": "/static/media/logo.cfcdb0c1fd840689e1eb.png",
+    "static/media/FardinAhmed_CV.pdf": "/static/media/FardinAhmed_CV.d227c212cb1c89a66022.pdf",
+    "static/media/studybud.png": "/static/media/studybud.96698985c8d5461041b3.png",
+    "static/media/earthquake.png": "/static/media/earthquake.a639e154d35ab05367b1.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.76b0c177.css.map": "/static/css/main.76b0c177.css.map",
+    "main.cb10ebe5.js.map": "/static/js/main.cb10ebe5.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76b0c177.css",
+    "static/js/main.cb10ebe5.js"
+  ]
+}
